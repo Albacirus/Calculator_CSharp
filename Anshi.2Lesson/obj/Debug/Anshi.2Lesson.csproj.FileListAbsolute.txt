@@ -1,0 +1,14 @@
+F:\Progect\Anshi.2Lesson\Anshi.2Lesson\bin\Debug\Anshi.2Lesson.exe.config
+F:\Progect\Anshi.2Lesson\Anshi.2Lesson\bin\Debug\Anshi.2Lesson.exe
+F:\Progect\Anshi.2Lesson\Anshi.2Lesson\bin\Debug\Anshi.2Lesson.pdb
+F:\Progect\Anshi.2Lesson\Anshi.2Lesson\obj\Debug\Anshi.2Lesson.csprojAssemblyReference.cache
+F:\Progect\Anshi.2Lesson\Anshi.2Lesson\obj\Debug\Anshi.2Lesson.csproj.CoreCompileInputs.cache
+F:\Progect\Anshi.2Lesson\Anshi.2Lesson\obj\Debug\Anshi.2Lesson.exe
+F:\Progect\Anshi.2Lesson\Anshi.2Lesson\obj\Debug\Anshi.2Lesson.pdb
+F:\Github\Anshi.2Lesson\bin\Debug\Anshi.2Lesson.exe.config
+F:\Github\Anshi.2Lesson\bin\Debug\Anshi.2Lesson.exe
+F:\Github\Anshi.2Lesson\bin\Debug\Anshi.2Lesson.pdb
+F:\Github\Anshi.2Lesson\obj\Debug\Anshi.2Lesson.csprojAssemblyReference.cache
+F:\Github\Anshi.2Lesson\obj\Debug\Anshi.2Lesson.csproj.CoreCompileInputs.cache
+F:\Github\Anshi.2Lesson\obj\Debug\Anshi.2Lesson.exe
+F:\Github\Anshi.2Lesson\obj\Debug\Anshi.2Lesson.pdb
